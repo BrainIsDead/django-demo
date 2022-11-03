@@ -1,0 +1,7 @@
+*.pyc
+*.sqlite3
+.env
+/.vscode/
+/src/media/
+/src/static/
+*.mo

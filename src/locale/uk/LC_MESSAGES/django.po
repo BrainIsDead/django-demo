@@ -1,0 +1,257 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-03 15:54+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != "
+"11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % "
+"100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || "
+"(n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+#: .\oo_api\settings.py:120
+msgid "English"
+msgstr ""
+
+#: .\oo_api\settings.py:121
+msgid "Dutch"
+msgstr ""
+
+#: .\oo_api\settings.py:122
+msgid "Ukrainian"
+msgstr ""
+
+#: .\work_cards\models.py:18
+msgid "Freelance"
+msgstr ""
+
+#: .\work_cards\models.py:19
+msgid "Regular"
+msgstr ""
+
+#: .\work_cards\models.py:20
+msgid "Both"
+msgstr ""
+
+#: .\work_cards\models.py:21
+msgid "other"
+msgstr ""
+
+#: .\work_cards\models.py:28
+msgid "No further education"
+msgstr ""
+
+#: .\work_cards\models.py:29
+msgid "Vocational education"
+msgstr ""
+
+#: .\work_cards\models.py:30
+msgid "Community College/Lower secondary education"
+msgstr ""
+
+#: .\work_cards\models.py:31
+msgid "High school"
+msgstr ""
+
+#: .\work_cards\models.py:32
+msgid "GED (General Education Diploma)"
+msgstr ""
+
+#: .\work_cards\models.py:33
+msgid "High school/Pre-University education"
+msgstr ""
+
+#: .\work_cards\models.py:34
+msgid "Gymnasium"
+msgstr ""
+
+#: .\work_cards\models.py:35
+msgid "Associate"
+msgstr ""
+
+#: .\work_cards\models.py:36
+msgid "Bachelor"
+msgstr ""
+
+#: .\work_cards\models.py:37
+msgid "Master"
+msgstr ""
+
+#: .\work_cards\models.py:38
+msgid "Phd"
+msgstr ""
+
+#: .\work_cards\models.py:45
+msgid "Agriculture"
+msgstr ""
+
+#: .\work_cards\models.py:46
+msgid "Banking"
+msgstr ""
+
+#: .\work_cards\models.py:47
+msgid "Biotechnology"
+msgstr ""
+
+#: .\work_cards\models.py:48
+msgid "Chemicals"
+msgstr ""
+
+#: .\work_cards\models.py:49
+msgid "Communications"
+msgstr ""
+
+#: .\work_cards\models.py:50
+msgid "Construction"
+msgstr ""
+
+#: .\work_cards\models.py:51
+msgid "Consulting"
+msgstr ""
+
+#: .\work_cards\models.py:52
+msgid "Education"
+msgstr ""
+
+#: .\work_cards\models.py:53
+msgid "Electronics"
+msgstr ""
+
+#: .\work_cards\models.py:54
+msgid "Energy"
+msgstr ""
+
+#: .\work_cards\models.py:55
+msgid "Engineering"
+msgstr ""
+
+#: .\work_cards\models.py:56
+msgid "Entertainment"
+msgstr ""
+
+#: .\work_cards\models.py:57
+msgid "Environmental"
+msgstr ""
+
+#: .\work_cards\models.py:58
+msgid "Finance"
+msgstr ""
+
+#: .\work_cards\models.py:59
+msgid "Food & Beverage"
+msgstr ""
+
+#: .\work_cards\models.py:60
+msgid "Government"
+msgstr ""
+
+#: .\work_cards\models.py:61
+msgid "Healthcare"
+msgstr ""
+
+#: .\work_cards\models.py:62
+msgid "Hospitality"
+msgstr ""
+
+#: .\work_cards\models.py:63
+msgid "Insurance"
+msgstr ""
+
+#: .\work_cards\models.py:64
+msgid "Machinery"
+msgstr ""
+
+#: .\work_cards\models.py:65
+msgid "Manufacturing"
+msgstr ""
+
+#: .\work_cards\models.py:66
+msgid "Media"
+msgstr ""
+
+#: .\work_cards\models.py:67
+msgid "Not for Profit"
+msgstr ""
+
+#: .\work_cards\models.py:68
+msgid "Recreation"
+msgstr ""
+
+#: .\work_cards\models.py:69
+msgid "Retail"
+msgstr ""
+
+#: .\work_cards\models.py:70
+msgid "Shipping"
+msgstr ""
+
+#: .\work_cards\models.py:71
+msgid "Technology"
+msgstr ""
+
+#: .\work_cards\models.py:72
+msgid "Telecommunications"
+msgstr ""
+
+#: .\work_cards\models.py:73
+msgid "Transportation"
+msgstr ""
+
+#: .\work_cards\models.py:74
+msgid "Utilities"
+msgstr ""
+
+#: .\work_cards\models.py:75
+msgid "Other"
+msgstr ""
+
+#: .\work_cards\models.py:83
+msgid "Resume in Dutch"
+msgstr ""
+
+#: .\work_cards\models.py:91
+msgid "Resume in English"
+msgstr ""
+
+#: .\work_cards\models.py:99
+msgid "Contract Type"
+msgstr ""
+
+#: .\work_cards\models.py:106
+msgid "Minimum Education Level"
+msgstr ""
+
+#: .\work_cards\models.py:111
+msgid "Hours per Week"
+msgstr ""
+
+#: .\work_cards\models.py:117
+msgid "Work Branches"
+msgstr ""
+
+#: .\work_cards\models.py:118
+msgid "Work Abroad"
+msgstr ""
+
+#: .\work_cards\models.py:119
+msgid "Current client"
+msgstr ""
+
+#: .\work_cards\models.py:120
+msgid "Looking for"
+msgstr ""
+
+#: .\work_cards\models.py:121
+msgid "Key skills"
+msgstr ""
