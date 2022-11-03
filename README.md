@@ -26,7 +26,7 @@ $ python manage.py runserver
 
 Open `http://localhost:8000` to view it in the browser
 
-## [Django admin](https://docs.djangoproject.com/en/4.1/ref/contrib/admin/) web interface (user should be `is_staff` od `is_superuser`)
+## [Django admin](https://docs.djangoproject.com/en/4.1/ref/contrib/admin/) web interface (user should be `is_staff` or `is_superuser`)
 `http://localhost:8000/admin`
 
 
